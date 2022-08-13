@@ -1,7 +1,7 @@
 # RED-Hack
 # Usage:  
 - git clone hub.com/mohsinkh22/RED-Hawk.git
-- cd RED_HAWK 
+- cd RED-Hawk
 - php rhawk.php 
 - Use the "help" command to see the command list or type in the domain name you want to scan (without Http:// OR Https://). 
 - Select whether The Site Runs On HTTPS or not. 
