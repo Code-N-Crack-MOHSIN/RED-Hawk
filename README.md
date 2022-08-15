@@ -1,6 +1,6 @@
 # RED-Hack
 # Usage:  
-- git clone hub.com/mohsinkh22/RED-Hawk.git
+- https://github.com/Code-N-Crack-MOHSIN/RED-Hawk.git
 - cd RED-Hawk
 - cd Red-Hawk
 - php rhawk.php 
